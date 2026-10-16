@@ -1,3 +1,5 @@
+[![Treat Health: the right care, without the wait](./banner.png)](https://treat.health/en/)
+
 # Treat Health
 
 **The right care, without the wait.** Tell us what's wrong in your own words, and a licensed doctor reviews your health concern in minutes. Then we route you to the right next step: a prescription, your occupational health service, a health centre or a specialist.
